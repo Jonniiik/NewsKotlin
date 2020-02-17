@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NewsKotlin</string>
+    <string name="not_connection">Not Connection</string>
+</resources>
